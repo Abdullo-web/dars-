@@ -125,3 +125,67 @@
     margin-top: -40px;
     margin-left: -60px;
 }
+.od{
+    font-size: 38px;
+    font-weight: 700px;
+    margin-top: 120px;
+    text-align: center;
+}
+.gt5{
+    margin-top: 40px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+.f56{
+    margin: auto;
+    display: flex;
+    width: 90%;
+    justify-content: space-between;
+    
+}
+.fig{
+    width: 261px;
+    height: 262px;
+    
+    border-radius: 20px;
+}
+.fig h1{
+    font-weight: 600;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 21px;
+}
+.fig p{
+    line-height: 25px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.fig1{
+    width: 261px;
+    height: 262px;
+    background-color: rgba(0, 255, 255, 0.319);
+    border-radius: 20px;
+}
+.fig1 h1{
+    font-weight: 600;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 21px;
+}
+.fig1 p{
+    line-height: 25px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.ukm{
+    margin: auto;
+    padding-top: 38px;
+    text-align: center;
+}
